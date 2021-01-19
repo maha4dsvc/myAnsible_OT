@@ -1,0 +1,16 @@
+---
+- StudentDetails: 
+   - name: arun
+     phono: 898988898
+     email: arun@gmail.com
+     address: hyd 
+
+   - name: subhash
+     phono: 78878787878
+     email: subhash@gmail.com
+     address: hyd 
+
+   - name: vamsi
+     phono: 56565656565
+     email: vamsi@gmail.com
+     address: kphb 
