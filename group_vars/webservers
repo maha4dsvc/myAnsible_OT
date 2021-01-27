@@ -1,0 +1,5 @@
+
+---
+
+mywebserverOnUbuntu: apache2
+mywebserverOnRedhat: httpd

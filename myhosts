@@ -23,6 +23,3 @@
 
 
 
-[webservers:vars]
-mywebserverOnUbuntu= apache2
-mywebserverOnRedhat= httpd
